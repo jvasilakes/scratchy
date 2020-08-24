@@ -47,6 +47,6 @@ println("Gold Labels: $(y)")
 println("Accuracy: $(acc)")
 ```
 
-[1]: https://github.com/jvasilakes/scratchy/notebooks/backprop_example1.ipynb
-[2]: https://github.com/jvasilakes/scratchy/notebooks/backprop_example2.ipynb
-[3]: https://github.com/jvasilakes/scratchy/notebooks/backprop_example3.ipynb
+[1]: https://github.com/jvasilakes/scratchy/blob/master/notebooks/backprop_example1.ipynb
+[2]: https://github.com/jvasilakes/scratchy/blob/master/notebooks/backprop_example2.ipynb 
+[3]: https://github.com/jvasilakes/scratchy/blob/master/notebooks/backprop_example3.ipynb 
